@@ -23,4 +23,5 @@ def move(board, index, player = "X")
 end
 
 def turn
+  puts "Plearse enter 1-9:"
 end
