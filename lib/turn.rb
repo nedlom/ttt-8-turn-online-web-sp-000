@@ -25,4 +25,5 @@ end
 def turn(board)
   puts "Plearse enter 1-9:"
   input = gets.strip
+  
 end
